@@ -1,12 +1,18 @@
+/* GLOBAL RESETS */
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 /*
 
 TABLE OF CONTENTS
 
-
+#GlOBAL RESETS
 # TYPOGRAPHY
 # BUTTONS
 
 */
 body {
-  background: pink;
+  color: rgba(0, 0, 0, 0.8);
 }
